@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/SmartContract/static/css/main.291230f3.css",
+    "main.js": "/SmartContract/static/js/main.414fe064.js",
+    "static/js/787.e1b1dea9.chunk.js": "/SmartContract/static/js/787.e1b1dea9.chunk.js",
+    "static/media/computer.jpg": "/SmartContract/static/media/computer.ad6a54f0c5f9a4ea72af.jpg",
+    "static/media/car.jpg": "/SmartContract/static/media/car.39e917601bc0c8b8c83b.jpg",
+    "index.html": "/SmartContract/index.html",
+    "main.291230f3.css.map": "/SmartContract/static/css/main.291230f3.css.map",
+    "main.414fe064.js.map": "/SmartContract/static/js/main.414fe064.js.map",
+    "787.e1b1dea9.chunk.js.map": "/SmartContract/static/js/787.e1b1dea9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.291230f3.css",
+    "static/js/main.414fe064.js"
+  ]
+}
